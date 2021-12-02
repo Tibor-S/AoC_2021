@@ -1,5 +1,5 @@
 
-path = __file__ + "/../i1.txt"
+path = __file__ + "/../i1.in"
 
 data = open(path).read().split()
 
